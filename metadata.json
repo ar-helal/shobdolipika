@@ -1,0 +1,6 @@
+{
+  "name": "ShobdoLipika",
+  "description": "English to Bengali vocabulary wallpaper generator and learning companion with custom fonts, levels, and auto-rotation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
